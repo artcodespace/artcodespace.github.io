@@ -1,0 +1,7 @@
+remote_theme: riggraz/no-style-please
+   plugins:
+     - jekyll-remote-theme
+     - jekyll-seo-tag
+   title: My Blog
+   author: Your Name
+   appearance: auto   # light | dark | auto
