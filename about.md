@@ -1,6 +1,6 @@
 ---
-layout: page,
-title: About,
+layout: page
+title: About
 ---
 
 This is some information about me

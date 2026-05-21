@@ -5,3 +5,6 @@ entries:
       show_more: true
       show_more_text: See all posts...
       show_more_url: archive.html
+
+  - title: about
+    url: about.html
