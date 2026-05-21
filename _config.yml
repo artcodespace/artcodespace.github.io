@@ -4,4 +4,6 @@ plugins:
   - jekyll-seo-tag
 title: artcodespace, the blog
 author: alun
-appearance: auto
+
+theme_config:
+  appearance: auto
