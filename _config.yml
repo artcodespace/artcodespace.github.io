@@ -2,6 +2,6 @@ remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-title: My Blog
-author: Your Name
+title: artcodespace, the blog
+author: alun
 appearance: auto
