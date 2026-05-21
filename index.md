@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: list
 title: Home
 list_title: Posts
 ---
