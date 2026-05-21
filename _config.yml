@@ -7,3 +7,4 @@ author: alun
 
 theme_config:
   appearance: auto
+  date_format: "%Y-%m-%d"
