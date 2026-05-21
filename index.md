@@ -2,4 +2,4 @@
 layout: home
 ---
 
-Welcome to my blog.
+Hello! Welcome to my blog
