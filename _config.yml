@@ -2,9 +2,11 @@ remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
-title: artcodespace, the blog
+title: artcodespace
+description: a coding blog
 author: alun
 
 theme_config:
   appearance: auto
   date_format: "%Y-%m-%d"
+  show_description: true
